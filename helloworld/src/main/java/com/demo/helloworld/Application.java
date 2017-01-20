@@ -1,7 +1,6 @@
 /*
- * Copyright (c) 2014 - 2017. MOBCB Technology Co.,Ltd. All rights Reserved.
+ * Copyright (c) 2014 - 2017. Reno Shen. All rights Reserved.
  */
-
 package com.demo.helloworld;
 
 import com.demo.helloworld.config.Configuration;
