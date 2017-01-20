@@ -3,8 +3,9 @@
  */
 package com.demo.helloworld;
 
-import com.demo.helloworld.config.Configuration;
+import com.demo.helloworld.config.XYZConfig;
 import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * com.demo.springboot.Application: Spring Boot Demo.
@@ -13,10 +14,11 @@ import org.springframework.boot.SpringApplication;
  * @version 1.00
  * @since 2017-01-18 17:54
  */
+@SpringBootApplication
 public class Application {
 
     public static void main(String[] args) {
         // 启动服务
-        SpringApplication.run(Configuration.class, args);
+        SpringApplication.run(XYZConfig.class, args);
     }
 }
