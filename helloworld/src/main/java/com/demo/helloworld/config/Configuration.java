@@ -15,6 +15,6 @@ import org.springframework.context.annotation.ComponentScan;
  * @since 2017-01-20 9:18
  */
 @SpringBootApplication
-@ComponentScan("com.demo.springboot.*")
+@ComponentScan("com.demo.helloworld.*")
 public class Configuration {
 }
