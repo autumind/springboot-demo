@@ -14,5 +14,5 @@ import org.springframework.context.annotation.Configuration;
  * @since 2017-01-20 9:18
  */
 @Configuration
-public class XYZConfig {
+public class HelloWorldConfig {
 }

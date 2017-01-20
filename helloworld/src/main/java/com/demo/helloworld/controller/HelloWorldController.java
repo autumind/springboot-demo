@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2017-01-18 17:56
  */
 @RestController
-public class HelloWorld {
+public class HelloWorldController {
 
     @RequestMapping("/")
     public String helloWorld() {
