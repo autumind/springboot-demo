@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
  * @since 2017-01-20 9:18
  */
 @Component
-@ConfigurationProperties(prefix = "demo")
+@ConfigurationProperties(prefix = "demo", locations = "classpath:demo-config.yml")
 public class DemoConfig {
 
     private String name;
