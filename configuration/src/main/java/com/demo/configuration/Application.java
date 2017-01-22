@@ -1,7 +1,7 @@
 /*
- * Copyright (c) 2014 - 2017. Reno Shen. All rights Reserved.
+ * Copyright (c) 2014 - Reno Shen. All rights Reserved.
  */
-package com.demo.helloworld;
+package com.demo.configuration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
