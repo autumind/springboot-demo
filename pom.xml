@@ -28,5 +28,6 @@
         <module>helloworld</module>
         <module>configuration</module>
         <module>thymeleaf</module>
+        <module>freemarker</module>
     </modules>
 </project>
